@@ -1,3 +1,23 @@
+Tasks:
+
+- [ ] interface with waveshare 2.8" display (get pins)
+  - [ ] figure out how to display a dynamic image-based menu with no OS GUI
+- [ ] interface with OLED (get pins)
+- [ ] interface with 5D make sure center click works (get pins)
+- [ ] interface with IMU (get pins)
+
+### 01/02/2025
+
+3:06 PM
+
+Oh man I'm feeling it now Mr. Krabs, the juice is flowing
+
+I thought I was working today, dumb...
+
+Today I'll interface with the Waveshare display, I ordered another RPi HQ Cam and Pi 4B from Adafruit but still waiting for that.
+
+I'll use the other Pi 4 I have currently.
+
 ### 01/01/2025
 
 8:08 PM
