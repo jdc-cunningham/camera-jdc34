@@ -27,3 +27,9 @@ I design the cameras inside-out, I start by modeling the parts and then fit them
 Of course here I have a design I want in mind but yeah.
 
 This is what happens though when you use off-the-shelf parts.
+
+11:58 PM
+
+I think I have almost all of the parts to build this camera already. I do have to wait for the OLED now that I decided to add.
+
+I'll need to model all the parts and get the other adapters to check their dimensions, make sure they fit.
