@@ -11,3 +11,11 @@ I started buying a bunch of parts, I'm looking at wide angle lenses next to try.
 I'm also looking into tuning the camera for the Minolta 50mm F1.7
 
 Did a base design, ordered the sea-green filament
+
+9:18 PM
+
+I guess I didn't have to buy 3 different brands of these adapters oh well.
+
+Also seems like most of the single-digit focal length lenses are fish eye.
+
+So I'm not sure, I don't want that skewing/warping problem.
