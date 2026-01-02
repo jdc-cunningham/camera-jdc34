@@ -1,3 +1,3 @@
 ### Still in design
 
-<img src="./init-design.PNG"/>
+<img src="./init-design.png"/>
