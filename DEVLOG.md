@@ -48,6 +48,42 @@ Looks like you chain the commands together like:
 
 I still haven't gotten this screen to rotate damn, I'm on trixie
 
+Damn... it's funny I have no idea how this GUI DSI thing works...
+
+I was expecting I could just "output an image" somehow to the display but it's I think HDMI out and it's only outputting the terminal... so I don't know how I'd output my custom image-based menu.
+
+Still researching, I may have to go back to a full OS install and then boot some kind of Python GUI there if I can't do it from lite.
+
+I'm not sure if I really want to write my own X11 display thing to accomplish this.
+
+8:50 PM
+
+The thing is my menu system isn't even streaming video (until it gets to the camera pass through then it would have to)
+
+It's just pulling pre-made menu images based on the menu state to show
+
+https://forums.raspberrypi.com/viewtopic.php?t=152264
+
+That looks interesting, openbox although I wouldn't use tkinter
+
+8:52 PM
+
+Okay intalling `openbox`
+
+also installing `xinit`
+
+Idk what myapp is will see
+
+8:58 PM
+
+Yoooo there's a little mouse lmao
+
+<img src="./devlog-images/xorg.JPG"/>
+
+I still don't understand how to control what is shown but this is something.
+
+---
+
 ### 01/01/2025
 
 8:08 PM
