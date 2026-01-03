@@ -28,7 +28,11 @@ Trying to add dtoverlay from this thread [https://forums.raspberrypi.com/viewtop
 
 `dtoverlay=vc4-kms-dsi-waveshare-panel,2_8_inch`to `/boot/firmware/config.txt`
 
+8:10 PM
 
+OMG it's so beautiful!
+
+<img src="./devlog-images/waveshare-display-working.JPG"/>
 
 ### 01/01/2025
 
