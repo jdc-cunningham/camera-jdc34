@@ -1,13 +1,39 @@
 Tasks:
 
-- [x] interface with waveshare 2.8" display (DSI no pins)
-  - [x] get display working
-  - [x] figure out how to display a dynamic image-based menu with no OS GUI
-    - decided to use OpenCV stream
-  - [x] get coordinate click
-- [ ] interface with OLED (get pins)
-- [ ] interface with 5D make sure center click works (get pins)
-- [ ] interface with IMU (get pins)
+- [x] hardware
+  - [x] interface with waveshare 2.8" display (DSI no pins)
+    - [x] get display working
+    - [x] figure out how to display a dynamic image-based menu with no OS GUI
+      - decided to use OpenCV stream
+    - [x] get coordinate click
+  - [x] interface with OLED (get pins)
+  - [x] interface with 5D make sure center click works (get pins)
+  - [x] interface with IMU (get pins)
+
+- [ ] modeling
+  - [ ] model the individual components to design the shell
+  - [ ] design the body
+  - [ ] test print for fit
+  - [ ] print entire body
+  - [ ] assemble
+  - [ ] finish wiring diagram
+
+- [ ] software
+  - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
+
+### 01/04/2026
+
+2:12 PM
+
+Damn I feel like shit today, trying to reset my sleep pattern to go back to work tomorrow
+
+That's one of my goals in life, not to have a fixed job so I can sleep/wake whenever my body wants to
+
+The color palette thing arrives today, apparent your monitor needs to be calibrated too for it to work so idk
+
+I'm working on the menu today, trying to get a working POC of the recursive folder walking
+
+It's not just the nesting that determines the menu structure it's the icons too if they click and how far that icon goes, how many "pages" it has
 
 ### 01/03/2026
 
