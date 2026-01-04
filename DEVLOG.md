@@ -9,7 +9,27 @@ Tasks:
 - [ ] interface with 5D make sure center click works (get pins)
 - [ ] interface with IMU (get pins)
 
-### 01/02/2025
+### 01/03/2026
+
+6:25 PM
+
+I'm still stuck in 2025 apparently
+
+Well I went out with the modular pi cam and minolta again, this time the AWB tune was yellow than pink ugh
+
+It doesn't look crisp either, hard to focus... I want to blame the small sensor but idk I also am not good at photography
+
+And I'm using automatic settings which the new pelicam menu will be able to set
+
+So last time I was trying to get click detection to work, after that I'm going to interface with the OLED and then I'll do the IMU and buttons... which I've done in the past.
+
+After this I'll be working on the software, and modeling parts and designing the body. The seafoam-green PLA arrived today ha.
+
+6:40 PM
+
+Okay we've got clicking nice and the coordinate
+
+### 01/02/2026
 
 3:06 PM
 
@@ -207,7 +227,7 @@ Also need to verify the framerate of the imshow, I was initially going for 60fps
 
 ---
 
-### 01/01/2025
+### 01/01/2026
 
 8:08 PM
 
