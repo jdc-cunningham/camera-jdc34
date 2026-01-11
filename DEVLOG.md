@@ -11,7 +11,18 @@ Tasks:
   - [x] interface with IMU (get pins)
 
 - [ ] modeling
-  - [ ] model the individual components to design the shell
+  - [ ] model the individual components to design the shell - some of these are already modeled
+    - [ ] Pi 4
+    - [ ] DSI display
+    - [ ] 0.91" OLED
+    - [ ] GY-91 IMU
+    - [ ] RPi HQ cam
+    - [ ] 18650
+    - [ ] charger
+    - [ ] DC-DC boost converter
+    - [ ] button
+    - [ ] 5D joystick
+    - [ ] shutter button
   - [ ] design the body
   - [ ] test print for fit
   - [ ] print entire body
