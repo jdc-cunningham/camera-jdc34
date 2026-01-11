@@ -32,6 +32,14 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/11/2026
+
+5:55 PM
+
+I had an idea... I can print the bodies smaller so they finish faster and I can get a feel for the ergonomics
+
+I already saw another lens I want lol at least these lenses in general are like $40 each
+
 ### 01/10/2026
 
 5:26 PM
