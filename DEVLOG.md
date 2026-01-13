@@ -32,6 +32,20 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/12/2026
+
+7:12 PM
+
+I took the Vivitar 75-200mm lens out and it's huge/heavy.
+
+It made me think about designing the body to just be a square/purely touch screen.
+
+Because in that particular case, the lens itself would be attached to the tripod vs. the camera body
+
+And then the display is just this thing you touch on the back of the lens... but you can just make more cameras
+
+I'm realizing too that video looks great with this sensor but photography is ehh... definitely need to mess with the lighting more and stabilize for the case of telephoto
+
 ### 01/11/2026
 
 5:55 PM
