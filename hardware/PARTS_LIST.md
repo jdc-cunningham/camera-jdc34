@@ -10,3 +10,6 @@ GY-91 10DOF IMU https://amzn.to/49jh50v
 USB Li-Ion charger https://amzn.to/3NcuRKW
 single button https://amzn.to/44TAjIT
 shutter button https://amzn.to/44TAjIT
+pack of assorted resistors https://amzn.to/453sS1S
+
+Not pictured is a 10K resistor needed for the buttons
