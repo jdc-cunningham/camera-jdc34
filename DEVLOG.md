@@ -93,6 +93,10 @@ You can see the rough footprint above with all the parts arranged.
 
 I decided I'm going to add a speaker to this camera so it makes a shutter sound, that'll be more satisfying
 
+10:10 PM
+
+I actually thought of something funny, with the accelerometer on there you could whip the camera back and forth and it would start screaming like it was a living thing
+
 ---
 
 ### 01/12/2026
