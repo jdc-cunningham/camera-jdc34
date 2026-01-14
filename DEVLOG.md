@@ -77,6 +77,10 @@ It kind of takes away from the camera design too when you see "oh it's obviously
 
 <img src="./devlog-images/parts.JPG"/>
 
+I'm mentally sold on this blue-green but I bought sea-foam green 3D printing filament so I should update the drawing to reflect that
+
+Ehh we'll see it when it's real
+
 ### 01/12/2026
 
 7:12 PM

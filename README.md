@@ -1,3 +1,3 @@
 ### Still in design
 
-<img src="./init-design.png"/>
+<img src="./devlog-images/artsy-camera.png"/>
