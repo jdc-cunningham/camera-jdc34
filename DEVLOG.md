@@ -81,6 +81,14 @@ I'm mentally sold on this blue-green but I bought sea-foam green 3D printing fil
 
 Ehh we'll see it when it's real
 
+8:46 PM
+
+<img src="./devlog-images/parts-roughly-laid-out.JPG"/>
+
+I decided to put the switch under the display so it's hidden.
+
+You can see the rough footprint above with all the parts arranged.
+
 ### 01/12/2026
 
 7:12 PM
