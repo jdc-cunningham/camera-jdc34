@@ -89,6 +89,12 @@ I decided to put the switch under the display so it's hidden.
 
 You can see the rough footprint above with all the parts arranged.
 
+9:48 PM
+
+I decided I'm going to add a speaker to this camera so it makes a shutter sound, that'll be more satisfying
+
+---
+
 ### 01/12/2026
 
 7:12 PM
