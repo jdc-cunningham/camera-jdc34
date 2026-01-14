@@ -48,7 +48,13 @@ So time to start modeling, I'll record the whole process for that timelapse foot
 
 I imported parts I had designed for other projects so that saves time
 
+6:47 PM
 
+I did buy a bunch of 1/4-20 hex nuts but since the raspberry pi camera comes with a tripod mount, might as well use it
+
+6:50 PM
+
+Alright gonna do some modeling
 
 ### 01/12/2026
 
