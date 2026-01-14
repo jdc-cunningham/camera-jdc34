@@ -65,6 +65,18 @@ Nice I only have two things left to model
 
 Alright all the parts going into the body have been modeled
 
+8:17 PM
+
+Here are all the parts imported into one SketchUp file which the body will be created in.
+
+I did decide I'm not going to expose the Raspberry Pi's ports because it's supposed to be a camera and you can wirelessly talk to it/export the photos.
+
+It kind of takes away from the camera design too when you see "oh it's obviously a raspberry pi in a box"
+
+<img src="./devlog-images/parts-modeled.JPG"/>
+
+<img src="./devlog-images/parts.JPG"/>
+
 ### 01/12/2026
 
 7:12 PM
