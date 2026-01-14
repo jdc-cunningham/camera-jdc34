@@ -11,7 +11,7 @@ Tasks:
   - [x] interface with IMU (get pins)
 
 - [ ] modeling
-  - [ ] model the individual components to design the shell - some of these are already modeled
+  - [x] model the individual components to design the shell - some of these are already modeled
     - [x] Pi 4 model B
     - [x] DSI display
     - [x] 0.91" OLED
@@ -23,7 +23,7 @@ Tasks:
     - [x] back button
     - [x] 5D joystick
     - [x] shutter button
-    - [ ] hinge
+    - [x] hinge
   - [ ] design the body
   - [ ] test print for fit
   - [ ] print entire body
