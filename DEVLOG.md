@@ -12,16 +12,16 @@ Tasks:
 
 - [ ] modeling
   - [ ] model the individual components to design the shell - some of these are already modeled
-    - [ ] Pi 4
+    - [x] Pi 4 model B
     - [ ] DSI display
     - [ ] 0.91" OLED
     - [ ] GY-91 IMU
     - [ ] RPi HQ cam
-    - [ ] 18650
-    - [ ] charger
-    - [ ] DC-DC boost converter
-    - [ ] button
-    - [ ] 5D joystick
+    - [x] 18650
+    - [x] charger
+    - [x] DC-DC boost converter
+    - [x] back button
+    - [x] 5D joystick
     - [ ] shutter button
   - [ ] design the body
   - [ ] test print for fit
@@ -31,6 +31,24 @@ Tasks:
 
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
+
+### 01/13/2026
+
+6:27 PM
+
+I'm going to switch gears from the menu/software work and do the modeling of the body.
+
+Because it takes a long time to print so I figure if I can get ready to print over the weekend then I can do menu work while stuff prints.
+
+I would really like to assemble this new camera too.
+
+So time to start modeling, I'll record the whole process for that timelapse footage.
+
+6:41 PM
+
+I imported parts I had designed for other projects so that saves time
+
+
 
 ### 01/12/2026
 
