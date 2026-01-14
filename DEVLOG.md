@@ -13,16 +13,17 @@ Tasks:
 - [ ] modeling
   - [ ] model the individual components to design the shell - some of these are already modeled
     - [x] Pi 4 model B
-    - [ ] DSI display
-    - [ ] 0.91" OLED
-    - [ ] GY-91 IMU
-    - [ ] RPi HQ cam
+    - [x] DSI display
+    - [x] 0.91" OLED
+    - [x] GY-91 IMU
+    - [x] RPi HQ cam
     - [x] 18650
     - [x] charger
     - [x] DC-DC boost converter
     - [x] back button
     - [x] 5D joystick
-    - [ ] shutter button
+    - [x] shutter button
+    - [ ] hinge
   - [ ] design the body
   - [ ] test print for fit
   - [ ] print entire body
@@ -55,6 +56,14 @@ I did buy a bunch of 1/4-20 hex nuts but since the raspberry pi camera comes wit
 6:50 PM
 
 Alright gonna do some modeling
+
+7:50 PM
+
+Nice I only have two things left to model
+
+8:06 PM
+
+Alright all the parts going into the body have been modeled
 
 ### 01/12/2026
 
