@@ -33,6 +33,16 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/16/2026
+
+5:39 PM
+
+I'm not doing any work today but I did decide I'm gonna skip the gym both Sat and Sun and focus on building this camera. It's a 3-day weekend so I should be able to do it. Also the weather is really bad the next couple days, it's like 20mph winds at 15 degrees F you know... that would suck to go out and try to take pictures.
+
+I also ordered 5 more lenses... so that'll be more content. I have to finish and load up the menu on the camera but the 3D printing is loud so I want to do that during the day since I'm at an apt complex.
+
+---
+
 ### 01/13/2026
 
 6:27 PM
