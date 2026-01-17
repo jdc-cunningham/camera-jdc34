@@ -33,6 +33,36 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/17/2026
+
+10:35 AM
+
+Alright time to get in the zone autozone
+
+Gonna finish the modeling then do test prints to make sure the screws and slots fit then do the entire body which each half takes idk 7-9 hrs
+
+11:03 AM
+
+Doing first print in a while, testing the fit of the 18650 battery clip, there's a term for it regarding flexing parts
+
+It's not conformation or something but yeah
+
+1:25 PM
+
+I've been making progress
+
+I don't really like this design but I need to get a better program than SketchUp and learn how to design rounded surfaces
+
+<img src="./devlog-images/not-pleased.JPG"/>
+
+At this point I'm still designing where I have to fix the broken mesh (not 3D not 3D printable) and then cut out the screw holes/mounts and what not. The back LCD is interesting since it intersects with the rounded bit.
+
+<img src="./devlog-images/display.JPG"/>
+
+Also not liking the top, since the edges are irregular, I'm not able to make a round shape and follow-along, trace the top edge, that's just a sharp angle.
+
+---
+
 ### 01/16/2026
 
 5:39 PM
