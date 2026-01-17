@@ -61,6 +61,16 @@ At this point I'm still designing where I have to fix the broken mesh (not 3D no
 
 Also not liking the top, since the edges are irregular, I'm not able to make a round shape and follow-along, trace the top edge, that's just a sharp angle.
 
+3:21 PM
+
+Back from a lunch break/shopping (alky)
+
+Doing a test print under half scale.
+
+5:24 PM
+
+This is taking a while damn, still designing, decided the display will stick out past the body
+
 ---
 
 ### 01/16/2026
