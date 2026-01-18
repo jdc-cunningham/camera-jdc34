@@ -43,7 +43,33 @@ Gotta finish the display design, finish making screw holes and then do more test
 
 Then to wiring/assembling but each half of the camera takes like 8hrs to print so I may have to assemble tomorrow
 
+11:35 AM
 
+Alright I'm printing the display caddy full size, takes 2 hrs
+
+Continuing on to adding screw holes for the other parts of the camera, what sucks is I have these tiny screws and I dumped the container (multiple sizes) so they're all just mixed together.
+
+I make these cameras open source/all the design files and what not but it's so much work to make them... it's like who wants to do that.
+
+12:48 PM
+
+Man... I'm losing drive, it's so much work... I'm almost there
+
+I had to make the body thicker to accomodate the RPi's ethernet/USB ports
+
+<img src="./devlog-images/almost.JPG"/>
+
+I'm not designing screw holes/mounts for the IMU or the DC-DC boost converter as those can be just glued down, same for the D-pad... I was going to but it's sandwiched against the display case, can just glue it.
+
+So right now I have to design the screw mounts for the RPi HQ Cam (important due to being attached to huge lenses), the RPi itself (3 screws out of 4) and then the seam that joins the two halves together.
+
+After that I'll have to clean up the body/check it's a mesh and then I scan start printing them.
+
+I'll probably adjust the USB charger's position it's kind of in a weird spot, something to consider is it gets hot.
+
+
+
+---
 
 ### 01/17/2026
 
