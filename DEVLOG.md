@@ -71,6 +71,38 @@ Doing a test print under half scale.
 
 This is taking a while damn, still designing, decided the display will stick out past the body
 
+7:21 PM
+
+It's so ugly 😭
+
+<img src="./devlog-images/ugly.JPG">
+
+That's what I should call it, ugly green camera
+
+I did do the small 3D print, unfortunately the back part failed but I can already see... idk... it's like my car, if I look at it at the right angle it looks cool even though it's a hatchback.
+
+<img src="./devlog-images/ugly2.JPG"/>
+
+I did make good progress today, I'm almost there where I can print the two body halves.
+
+I'm still finishing up the 
+
+7:29 PM
+
+The back looks cool, detailed but the front is ass... nothing just a long rectangle
+
+Maybe I'll add a shape on it
+
+<img src="./devlog-images/body-so-far.JPG"/>
+
+<img src="./devlog-images/body-so-far-2.JPG"/>
+
+7:34 PM
+
+Well if I put the camera "serial" on the front it helps
+
+<img src="./devlog-images/emblem.JPG"/>
+
 ---
 
 ### 01/16/2026
