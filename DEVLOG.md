@@ -67,7 +67,17 @@ After that I'll have to clean up the body/check it's a mesh and then I scan star
 
 I'll probably adjust the USB charger's position it's kind of in a weird spot, something to consider is it gets hot.
 
+2:41 PM
 
+Alright I'm about to print the back half.
+
+If I print it edge down, it takes 14 hrs vs. the other way 10 hrs... so I'll sacrifice the nice smooth finish on the back for the speed to print
+
+The edges being perfect will be nice
+
+4:15 PM
+
+Had a problem with the front shell not printing correctly, thankfully I was able to save it
 
 ---
 
