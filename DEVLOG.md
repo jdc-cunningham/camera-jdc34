@@ -33,6 +33,18 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/18/2026
+
+10:40 AM
+
+Back on, time to lock in gang gang
+
+Gotta finish the display design, finish making screw holes and then do more test printing before printing the entire bodies
+
+Then to wiring/assembling but each half of the camera takes like 8hrs to print so I may have to assemble tomorrow
+
+
+
 ### 01/17/2026
 
 10:35 AM
