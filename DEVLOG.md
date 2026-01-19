@@ -26,7 +26,7 @@ Tasks:
     - [x] hinge
   - [x] design the body
   - [x] test print for fit
-  - [ ] print entire body
+  - [x] print entire body
   - [ ] assemble
   - [ ] finish wiring diagram
 
@@ -90,6 +90,18 @@ Had to confirm the "daughter board" will fit and it does thankfully, though I ha
 Cool exploded view
 
 <img src="./devlog-images/exploded-view.JPG"/>
+
+5:25 PM
+
+I'm back from doing some photography, the part is printed, there are errors
+
+- [ ] HQ camera mounting is off, too thin
+- [ ] RPi mount is not fully attached
+- [ ] screw holders are thin in geneneral
+
+I need to get that wiring diagram together so I can assemble it.
+
+
 
 ---
 
