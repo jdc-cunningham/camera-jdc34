@@ -24,8 +24,8 @@ Tasks:
     - [x] 5D joystick
     - [x] shutter button
     - [x] hinge
-  - [ ] design the body
-  - [ ] test print for fit
+  - [x] design the body
+  - [x] test print for fit
   - [ ] print entire body
   - [ ] assemble
   - [ ] finish wiring diagram
