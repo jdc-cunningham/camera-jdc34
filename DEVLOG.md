@@ -83,6 +83,14 @@ Had a problem with the front shell not printing correctly, thankfully I was able
 
 Just printing now
 
+6:34 PM
+
+Had to confirm the "daughter board" will fit and it does thankfully, though I have to cut the prototype solder board
+
+Cool exploded view
+
+<img src="./devlog-images/exploded-view.JPG"/>
+
 ---
 
 ### 01/17/2026
