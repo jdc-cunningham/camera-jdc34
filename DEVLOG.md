@@ -99,12 +99,18 @@ I'm back from doing some photography, the part is printed, there are errors
 - [ ] RPi mount is not fully attached
 - [ ] screw holders are thin in geneneral
 - [ ] charger holder needs work
+- [ ] hinge needs more room
+- [ ] OLED hole is too big
 
 I need to get that wiring diagram together so I can assemble it.
 
 10:54 PM
 
 Assembled as of now, waiting for battery to charge.
+
+<img src="./devlog-images/front.JPG"/>
+
+<img src="./devlog-images/back.JPG"/>
 
 ---
 
