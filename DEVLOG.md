@@ -27,8 +27,8 @@ Tasks:
   - [x] design the body
   - [x] test print for fit
   - [x] print entire body
-  - [ ] assemble
-  - [ ] finish wiring diagram
+  - [x] assemble
+  - [x] finish wiring diagram
 
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
@@ -98,10 +98,13 @@ I'm back from doing some photography, the part is printed, there are errors
 - [ ] HQ camera mounting is off, too thin
 - [ ] RPi mount is not fully attached
 - [ ] screw holders are thin in geneneral
+- [ ] charger holder needs work
 
 I need to get that wiring diagram together so I can assemble it.
 
+10:54 PM
 
+Assembled as of now, waiting for battery to charge.
 
 ---
 
