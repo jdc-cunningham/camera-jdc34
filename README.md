@@ -6,7 +6,7 @@
 
 #### Features
 
-- 2.8" DSI touchscreen display
+- 2.8" DSI waveshare touchscreen display
 - 0.91" OLED
 - 10-axis IMU
 - 7 physical button interface
