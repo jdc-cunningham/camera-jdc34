@@ -33,6 +33,14 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/20/2026
+
+I got it fully assembled and wired today, verified all the buttons, OLED and IMU are connected.
+
+Next is programming the software (Pelicam)
+
+---
+
 ### 01/18/2026
 
 10:40 AM
