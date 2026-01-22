@@ -1,3 +1,7 @@
+### Disclaimer
+
+Please note: the front shell needs some corrections, I'll remove this message once I have made the changes. In general this mesh is messed up, I did the modeling in SketchUp and it has problems with solids.
+
 ### Print times at 20% infill
 
 - Display caddy - 2hrs
