@@ -33,6 +33,14 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 01/21/2026
+
+8:46 PM
+
+The Pi 4B can get warm, I should have designed in vents, it has holes so it's not like heat absolutely can't escape but yeah
+
+---
+
 ### 01/20/2026
 
 I got it fully assembled and wired today, verified all the buttons, OLED and IMU are connected.
