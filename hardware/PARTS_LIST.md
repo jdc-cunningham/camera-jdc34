@@ -1,5 +1,7 @@
 <img src="./parts.JPG"/>
 
+<img src="./bom.JPG"/>
+
 Amazon Affiliate Links
 
 0.91" OLED https://amzn.to/49jh50v

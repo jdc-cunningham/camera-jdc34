@@ -13,6 +13,10 @@
 - full sized Raspberry Pi 4B
 - powered by single 18650 cell
 
+### Unit cost: $231.00
+
+See the [parts list](./hardware/PARTS_LIST.md)
+
 ### Software
 
 This uses [Pelicam](https://github.com/jdc-cunningham/pelicam) which is in development. The original software is [here](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display/software). But that was written for SPI displays.
