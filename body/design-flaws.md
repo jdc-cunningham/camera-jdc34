@@ -2,6 +2,14 @@
 
 The surface finish is from choice, if you print it the other way it takes a lot longer but you'll get a nice smooth finish vs. where support was detached.
 
+The specific problems:
+
+- HQ mount pegs are wrong, don't match, so I just hot-glued the HQ cam to the body which is not bad since you're going to attach
+- the bottom-left mount for the RPi 4B is not actually attached when it prints which is weird
+- the screw mounts that hold the two halves together are too small/frail, be careful, I snapped one of them on accident and had to print this A-shape thing to go around the broken screw mount
+- the charger holder is bad, I need to make that be two ends and as L shape, no support in between that is hard to take out, the problem is the charger gets hot, hot enough to re-melt hot glue
+- the back-button on the back shell, is not designed right, needs to be a square
+
 ### External design flaws
 
 - hinge gap and back button
