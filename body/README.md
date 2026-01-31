@@ -12,6 +12,8 @@ Please note: the front shell needs some corrections, I'll remove this message on
 
 <img src="./shells.JPG"/>
 
+<img src="./exploded-parts.JPG"/>
+
 ### Design flaws
 
 I've written this on [another page](./design-flaws.md)
