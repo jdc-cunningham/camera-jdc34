@@ -30,13 +30,17 @@ You can see in red the size of the gap. The Pi 4B actually runs pretty warm so w
 
 This is an external video but you can see the result I have. The problem is this board gets hot while the battery charges. So it will unmelt hotglue. I didn't design a good support for it internally.
 
-- switch
+- switch and screw holes
 
 <img src="./design-flaws-images/switch.JPG"/>
 
 This is another external photo but inside, the screw mounts were too small, I ended up just hot-gluing the switch the body.
 
 The other problem is it's not that easy to get access to the switch, I use the tip of my finger. I was aware of this while designing it but I was focused on making the switch hidden.
+
+Not directly visible but side screw holes are also problematic. I have to make them thicker so they're not so easy to break.
+
+No seam, because the shape is not normal and in some places thin, so I didn't design a seam. All the other cameras had a seam but they were simple rectangle edges.
 
 - HQ cam screw mounts
 
