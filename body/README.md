@@ -23,3 +23,6 @@ I did fix the OLED cutout, it was too big for my taste, and I just printed a sma
 
 <img src="./shells.JPG"/>
 
+### Design flaws
+
+I've written this on [another page](./design-flaws.md)
