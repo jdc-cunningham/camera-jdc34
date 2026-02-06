@@ -33,6 +33,16 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 02/06/2026
+
+5:37 PM
+
+Sunday will be a nice day so I want to take this camera out. Means I gotta write basic code and I'll put it here since it's not Pelicam.
+
+I'll write the code tomorrow when I wake up, I'm pretty tired.
+
+---
+
 ### 01/21/2026
 
 8:46 PM
