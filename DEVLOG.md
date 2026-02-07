@@ -41,6 +41,12 @@ Sunday will be a nice day so I want to take this camera out. Means I gotta write
 
 I'll write the code tomorrow when I wake up, I'm pretty tired.
 
+6:10 PM
+
+I'm mentally drained right now so just gonna think/plan out what to do tomorrow.
+
+<img src="./devlog-images/interface.png"/>
+
 ---
 
 ### 01/21/2026
