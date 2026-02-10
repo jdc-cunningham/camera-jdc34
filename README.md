@@ -1,6 +1,6 @@
 ### A custom camera body based on Raspberry Pi ecosystem
 
-<img src="./camera.jpeg"/>
+<img src="./camera.JPG"/>
 
 <img src="./x-ray.JPG"/>
 
