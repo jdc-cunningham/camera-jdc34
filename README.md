@@ -2,6 +2,8 @@
 
 <img src="./camera.JPG"/>
 
+<img src="./pass-through.JPG"/>
+
 <img src="./x-ray.JPG"/>
 
 #### Features
