@@ -38,6 +38,6 @@ Do `$chmod +x` on openbox
 
 I used systemd to do this. You can see this [page](./systemd.md) on setting up a systemd file.
 
-#### Pelicam
+### Pelicam
 
 [Pelicam](https://github.com/jdc-cunningham/pelicam) is the full-featured software intended to drive different camera modules, display types and small or full-sized Raspberry Pis.
