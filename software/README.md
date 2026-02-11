@@ -1,5 +1,9 @@
 ### Minimal software
 
+See this [video](https://www.youtube.com/watch?v=SRtKM-NrlgQ) going over this code.
+
+This code is crude, I put it together in a day so I could use this camera the following day.
+
 Very basic camera software that features these abilities:
 
 * button interfacing
