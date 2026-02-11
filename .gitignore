@@ -1,0 +1,7 @@
+# files
+.pyc
+.jdc34-cam
+.pelicam
+
+# folders
+__pycache__

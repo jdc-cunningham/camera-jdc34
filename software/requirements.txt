@@ -1,0 +1,4 @@
+numpy
+picamera2
+pillow
+pynput
