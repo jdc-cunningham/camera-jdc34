@@ -1,6 +1,8 @@
 ### Disclaimer
 
-Please note: the front shell needs some corrections, I'll remove this message once I have made the changes. In general this mesh is messed up, I did the modeling in SketchUp and it has problems with solids. Refer to design flaws file.
+Please note: I designed, printed and built this camera in 3 days.
+
+The front shell needs some corrections, I'll remove this message once I have made the changes. In general this mesh is messed up, I did the modeling in SketchUp and it has problems with solids. Refer to the design flaws file.
 
 <img src="./camera.JPG"/>
 
