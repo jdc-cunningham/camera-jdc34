@@ -33,6 +33,32 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 02/11/2026
+
+9:07 PM
+
+Sunday looks like it'll be a good day
+
+I'm gonna get a necklace camera so I can do photography POV videos
+
+I'll update this code the minimal software namely:
+
+- [ ] fix coordinate tapping (open right image)
+- [ ] make sure new images open (weird issue like caching)
+- [ ] add manual focus by tapping on the screen/panning by tapping left/right/top/bottom
+
+That should help with better pictures, it will still be automatic though as I need to have a more complicated menu to hold stuff like ISO, shutter speed, white balance, exposure, etc...
+
+I'll take the Rivere Scienar 24mm too this lens seems to be really good
+
+What's bad is since the RPi HQ cam is hot glued to my camera's body, I can't adjust it per lens
+
+I'm unscrewing the lens to focus the lens and I think the minor movement of taking a picture can unfocus the scene, but I guess go higher up in f-stop
+
+I was surprised by the Canon 15-75mm TV Zoom lens's depth of field
+
+Maybe even with this crop factor you can still have a nice depth of field blur
+
 ### 02/06/2026
 
 5:37 PM
