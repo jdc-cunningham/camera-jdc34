@@ -62,7 +62,13 @@ The other thing to address is I want the zoom to be touch-based, it should be cl
 
 I need to pull this repo down on the camera and switch software folders
 
+11:14 AM
 
+Alright for some reason I can't get openbox to find the venv path evne though it exists
+
+So I'm just gonna develop this in that basic-software pelicam branch then move the code over here later
+
+I have like 3 hrs to get this done which should be plenty if I don't run into dumb problems like this
 
 ### 02/11/2026
 
