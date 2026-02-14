@@ -33,6 +33,37 @@ Tasks:
 - [ ] software
   - see [pelicam repo](https://github.com/jdc-cunningham/pelicam)
 
+### 02/14/2026
+
+10:45 AM
+
+I'm going to improve the basic software, namely:
+
+- [ ] add the pan-zoom feature
+- [ ] fix the view photo feature
+
+The click coordinates are off and the photos seem to be "cached"
+
+For zooming what you're doing is taking a larger picture and showing a part of it
+
+So this display's resolution is 640x480
+
+If we do 2x zoom then it's 1280x960
+
+Full res is 4056xc3040 so that's quite a bit
+
+You could probably do 4x
+
+2560x1920
+
+The other thing to address is I want the zoom to be touch-based, it should be click/5D pad based as well but not now, on Pelicam yeah
+
+10:49 AM
+
+I need to pull this repo down on the camera and switch software folders
+
+
+
 ### 02/11/2026
 
 9:07 PM
