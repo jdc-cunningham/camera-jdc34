@@ -1,4 +1,6 @@
-### A custom camera body based on Raspberry Pi ecosystem
+### JDC34 Camera
+
+A custom camera body based on Raspberry Pi ecosystem
 
 <img src="./camera.JPG"/>
 
